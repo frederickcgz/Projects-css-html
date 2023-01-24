@@ -1,0 +1,41 @@
+* {
+    background-color: hsl(212, 45%, 89%);
+}
+#cuadro {
+    width: 300px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding: 20px;
+}
+#elQr {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 30px;
+    padding-bottom: 0px;
+}
+h1{
+    font-family: Outfit;
+    font-weight:bold;
+    font-size: 20px;
+    margin: 15px;
+    padding: 20px;
+    padding-top: 0px;
+    background-color: hsl(0, 0%, 100%);   
+}
+h2{
+    font-family: Outfit;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    padding: 29px;
+    background-color: hsl(0, 0%, 100%);
+    padding-top: 0%;
+    text-align: center;
+    
+}
